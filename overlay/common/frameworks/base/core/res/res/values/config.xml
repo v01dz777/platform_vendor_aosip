@@ -177,4 +177,7 @@
     </string-array>
     <string name="config_timeZoneRulesDataPackage">com.google.android.timezone.data</string>
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+
+    <!-- Lawnstep -->
+    <string name="config_recentsComponentName" translatable="false">ch.deletescape.lawnchair.ci/com.android.quickstep.RecentsActivity</string>
 </resources>
