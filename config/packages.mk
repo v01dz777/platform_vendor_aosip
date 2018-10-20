@@ -17,6 +17,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AOSIPFonts
 
+# Lawnchair Default Configuration
+PRODUCT_PACKAGES += \
+    LawnConf
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
