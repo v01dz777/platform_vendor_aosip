@@ -13,6 +13,10 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     Updater
 
+# DerpFest packages
+PRODUCT_PACKAGES += \
+    AOSIPFonts
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
