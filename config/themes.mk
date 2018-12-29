@@ -43,3 +43,9 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceBlackAF \
     UpdaterBlackAF \
     WellbeingBlackAF
+
+# Switch styler
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
