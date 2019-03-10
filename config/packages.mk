@@ -15,7 +15,8 @@ PRODUCT_PACKAGES += \
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
-    AOSIPFonts
+    AOSIPFonts \
+    Eleven
 
 # Lawnchair Default Configuration
 PRODUCT_PACKAGES += \
