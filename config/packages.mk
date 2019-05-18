@@ -10,8 +10,7 @@ PRODUCT_PACKAGES += \
     messaging \
     Recorder \
     WeatherClient \
-    WellbeingPrebuilt \
-    Updater
+    WellbeingPrebuilt
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
