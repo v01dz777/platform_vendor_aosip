@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     messaging \
     Recorder \
     WeatherClient \
+    WellbeingPrebuilt \
     Updater
 
 # Filesystems tools
