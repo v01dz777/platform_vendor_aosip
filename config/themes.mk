@@ -13,7 +13,8 @@ PRODUCT_PACKAGES += \
 	QSTileDottedCircle \
 	QSTileNinja \
 	QSTilePokesign \
-	QSTileShishuInk
+	QSTileShishuInk \
+    QSTileCookie
 
 # Themes
 PRODUCT_PACKAGES += \
