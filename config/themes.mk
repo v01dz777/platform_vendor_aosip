@@ -14,7 +14,12 @@ PRODUCT_PACKAGES += \
 	QSTileNinja \
 	QSTilePokesign \
 	QSTileShishuInk \
-    QSTileCookie
+    QSTileCookie \
+    QSTileCosmos \
+    QSTileDividedCircle \
+    QSTileNeonLight \
+    QSTileOxygen \
+    QSTileTriangles
 
 # Themes
 PRODUCT_PACKAGES += \
